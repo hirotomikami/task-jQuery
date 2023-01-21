@@ -59,16 +59,16 @@ div.row .detail {
 }
 
 div.row .radius.money {
-  border :2px solid yellow;
+  background-color: yellow;
   border-radius: 50%;
 }
 
 div.row .radius.work {
-  border :2px solid green;
+  background-color: green;
   border-radius: 50%;
 }
 
 div.row .radius.health {
-  border :2px solid aqua;
+  background-color: aqua;
   border-radius: 50%;
 }
